@@ -121,17 +121,21 @@ a:focus-visible {
   margin-bottom: 10vh;
   justify-content: center;
   align-items: center;
-  background-image: url(/bg.jpeg);
+  background-image: url(/bg3.jpeg);
   background-size: cover;
-  background-position: 35%;
+  background-position: 30%;
 }
 
-.hero {
+/* .hero {
   height: 100%;
 }
 
 .hero h2:last-child {
   align-self: flex-end;
+} */
+
+.hero h2 {
+  text-align: right;
 }
 
 .intro__heading {
