@@ -126,6 +126,14 @@ a:focus-visible {
   background-position: 35%;
 }
 
+.hero {
+  height: 100%;
+}
+
+.hero h2:last-child {
+  align-self: flex-end;
+}
+
 .intro__heading {
   display: grid;
   gap: 1rem;
@@ -150,6 +158,11 @@ a:focus-visible {
 
 .intro__heading h2 strong {
   color: var(--color-text);
+}
+
+.intro__heading h2 a svg {
+  width: 80px;
+  height: auto;
 }
 
 .intro__heading h3 {
