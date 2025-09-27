@@ -121,7 +121,7 @@ a:focus-visible {
   margin-bottom: 10vh;
   justify-content: center;
   align-items: center;
-  background-image: url(/bg3.jpeg);
+  background-image: url(/bg5.jpeg);
   background-size: cover;
   background-position: 30%;
 }
@@ -134,9 +134,9 @@ a:focus-visible {
   align-self: flex-end;
 } */
 
-.hero h2 {
+/* .hero h2 {
   text-align: right;
-}
+} */
 
 .intro__heading {
   display: grid;
